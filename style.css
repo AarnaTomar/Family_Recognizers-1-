@@ -1,0 +1,26 @@
+body{
+    color:white;
+    background-color: #7f5a83;
+    background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
+    
+    ;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#cam{
+    border: 2px groove black ;
+    width: 350px;
+    height: 300px;
+
+}
+.result_object_name{
+    color: #f0acc9;
+}
+.result_accuresy{
+    color: #b4b8f1;
+}
+.name_of_object{
+    color: #f392bc;
+}
